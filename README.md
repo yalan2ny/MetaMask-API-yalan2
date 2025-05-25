@@ -1,4 +1,4 @@
-# MetaMask Module Template
+# tabMetaMask Module Template
 
 This TypeScript module is maintained in the style of the MetaMask team.
 
@@ -17,7 +17,7 @@ Follow these instructions when using this template.
   - The links in the API section of the README
 - If your project has side effects, update the `sideEffects` field of
   `package.json` to `true`, or an array of file globs that match the files that
-  have side effects.
+  eschave side effects.
 - Update the pull request template (`.github/pull_request_template.md`) to remove the `Examples` section that is specific to this template.
 - Update the README "Usage" section, or remove it if it's not needed.
 - Update the CODEOWNERS file to set the appropriate code owners for the repository (typically one or more engineering teams)
@@ -56,7 +56,7 @@ See our documentation:
 
 Run `yarn test` to run the tests once. To run tests on file changes, run `yarn test:watch`.
 
-Run `yarn lint` to run the linter, or run `yarn lint:fix` to run the linter and fix any automatically fixable issues.
+tabRun `yarn lint` to run the linter, or run `yarn lint:fix` to run the linter and fix any automatically fixable issues.
 
 ### Release & Publishing
 
